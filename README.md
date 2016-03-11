@@ -1,7 +1,7 @@
 #Goldeneye Nostalgia
 ---
 
->####For he who does not read, does not me.
+>####"For he who does not read, does not me.""
   -_The Dalai Lama_
 
 ---
