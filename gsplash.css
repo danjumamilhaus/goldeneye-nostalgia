@@ -1,0 +1,59 @@
+body {
+	background-color: #000000;
+}
+
+h1 {
+	font-family: Verdana;
+    text-align: center;
+    font-size: 450%;
+	color: black;
+	text-shadow: 
+	-1px -1px 0 white,
+	1px -1px 0 white,
+	-1px 1px 0 white,
+	1px 1px 0 white;
+}
+
+/* div {
+	border: 1px solid white;
+} */
+
+#begin {
+	color: #006600;
+	position: absolute;
+	cursor: pointer;
+	margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 10%;
+}
+
+#begin:hover {
+	color: #00b300;
+}
+
+.image {
+	text-align: center;
+	position: relative;
+}
+
+.fadeIn {
+	-webkit-animation: fadein 2s;
+}
+
+.video {
+	display: none;
+
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
